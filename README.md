@@ -68,6 +68,7 @@ You can call me `Junjie.Wang` 🐳，is a practice that two and a half years... 
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,md,sentry)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 
-### 📌📌📌 Pinned
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wangjunjie991116&repo=Wangjunjie991116&theme=algolia)](https://github.com/Wangjunjie991116/Wangjunjie991116)
+<!-- ### 📌📌📌 Pinned
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wangjunjie991116&repo=Wangjunjie991116&theme=algolia)](https://github.com/Wangjunjie991116/Wangjunjie991116) -->
+
 
