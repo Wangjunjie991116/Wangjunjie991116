@@ -1,6 +1,6 @@
 <!-- header -->
 <h2>
-<!--   <img src="src/assert/hellokittydance.gif" alt="Hi" width="42" /> -->
+<!--   <img src="src/assert/hellokittydance.gif" alt="Hi Everyone" width="42" /> -->
   <div align="center" style="text-align: center;">
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=%E6%AC%A2%E8%BF%8E%E8%AE%BF%E9%97%AE+Junjie.wang%F0%9F%90%B3+%E7%9A%84+GitHub;%E5%B0%8F%E5%B0%8F%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%88;%E6%89%93%E5%B7%A5%E6%90%AC%E7%A0%96%F0%9F%A7%B1%E5%BF%AB%E4%B9%90%E6%AF%8F%E4%B8%80%E5%A4%A9" alt="Typing SVG" />
